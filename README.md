@@ -16,7 +16,7 @@ Proje ödevimdir. Ödevin bitiş süresinden sonra python dosyalarını yükleye
 
 # X LABEL (x1, x2) | Y LABEL
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/91004987/173177799-2f2c6e81-8b81-4131-baca-ce6f8c52ab8a.png" width="430" title="X LABEL"> <img src="https://user-images.githubusercontent.com/91004987/173177805-9d31030f-ad39-472e-88a5-69fcb756325a.png" width="430" title="Y LABEL">
+  <img src="https://user-images.githubusercontent.com/91004987/173177799-2f2c6e81-8b81-4131-baca-ce6f8c52ab8a.png" width="410" title="X LABEL"> <img src="https://user-images.githubusercontent.com/91004987/173177805-9d31030f-ad39-472e-88a5-69fcb756325a.png" width="410" title="Y LABEL">
 </p>
 
 # TAHMİN YAPMA
