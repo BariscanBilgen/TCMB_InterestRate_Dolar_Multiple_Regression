@@ -1,6 +1,6 @@
 # TCMB_InterestRate_Dolar_Multiple_Regression
 
-Proje ödevimdir. Ödevin bitiş süresinden sonra python dosyalarını yükleyeceğim. Çünkü diğer öğrencilerin ödevime/kodlarıma ulaşıp alması bu süreçte yasaktır.
+Proje ödevimdir. Ödevin bitiş süresinden sonra python dosyalarını yükleyeceğim. Çünkü diğer öğrencilerin ödevime/kodlarıma ulaşıp alması bu süreçte yasaktır. TCMB üzerinden python ile çektiğim vereileri düzenleyip x1,x2,y olmak üzere çoklu regresyon yaptırıp grafik çizdirdikten sonra girilen x1 ve x2 değerine göre geleceği tahmin ettirdim.
 
 # GRAFİK ÇİZİMLERİ
 # BIST100 | DOLAR KURU ARASINDAKİ İLİŞKİ
